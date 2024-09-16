@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+motor
+pymongo
+pandas
+numpy
+yfinance
+ta
+apscheduler
+python-multipart
